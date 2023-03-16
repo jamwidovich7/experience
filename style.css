@@ -1,0 +1,168 @@
+.header{
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(233, 255, 253);
+    margin:0 auto;
+ 
+}
+.nav{
+    width: 100%;
+    height: 10%;
+   
+}
+.nav > div{
+    float: left;
+}
+.logo{
+    width: 30%;
+    height: 100%;
+    
+}
+.list{
+    width: 70%;
+    height: 100%;
+    list-style: none;
+}
+.nav-list{
+    list-style: none;
+    margin-left: 300px;   
+}
+
+.nav-list:hover{
+  color: aqua;
+  border-radius: 10px;
+  border: 3px solid;
+}
+
+
+.nav-list > li{
+    float: left;
+    margin: 18px;   
+}
+.hero{
+    width: 100%;
+    height: 90%;
+   
+}
+.hero > div{
+    float: left;
+}
+.text2{
+    margin-left: 50px;
+}
+.hero-text{
+    width: 40%;
+    height: 100%;
+    background-color: rgb(238, 255, 252);
+    margin-left: 50px;
+}
+.hero-image{
+    width: 50%;
+    height: 100%;
+    margin-left: 50px;
+}
+main{
+    width: 1000px;
+    height: 800px;
+    background-color: rgb(218, 253, 253);
+    margin:0 auto;
+  
+}
+.customers{
+    width: 100%;
+    height: 15%;
+    background-color: rgb(246, 236, 255);
+}
+.box{
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    list-style: none;   
+}
+.lists1{
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.works{
+    width: 1000px;
+    height: 200px;
+    background-color: rgb(227, 227, 255);
+}
+h3{
+    text-align: center;
+}
+.logoworks{
+    width: 100%;
+    text-align: center;
+}
+
+.list2{
+    float: left;
+   margin-right: 50px;
+   margin-left: 100px;
+    display: inline-block;
+    list-style: none;
+}
+.clientsay{
+    width: 1000px;
+    height: 400px;
+    background-color: rgb(233, 255, 249);
+    display: flex;
+    
+}
+
+.text{
+    display: inline-block;
+}
+
+.text{
+    width: 400px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 200px;
+    background-color: rgb(220, 254, 255);  
+}
+.text-item{
+    list-style: none;
+    font-size: x-small;
+}
+.text-itemang{
+    font-weight: bolder;
+    list-style: none;
+}
+.phoneandtext{
+    display: flex;
+}
+.phone{
+    margin-top: 50px;
+}
+
+.phoneandtext{
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(225, 250, 254);
+}
+.telandtext2{
+    list-style: none;
+    
+}
+.dow{
+    font-weight: bolder;
+}
+.dow2{
+    font-size: x-small;
+}
+.imgpeople{
+    margin-left: 50px;
+}
+.phone{
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
